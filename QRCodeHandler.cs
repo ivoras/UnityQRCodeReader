@@ -9,6 +9,8 @@ using Unity.Collections;
 using Unity.Collections.LowLevel.Unsafe;
 using QRCodeDecoderLibrary;
 
+// (c) Ivan Voras, ivoras@gmail.com
+// Licensed under the LGPL 2.1
 
 public class QRCodeHandler : MonoBehaviour
 {
